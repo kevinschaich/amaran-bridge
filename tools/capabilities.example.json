@@ -1,0 +1,14 @@
+{
+  "example_fixture_key": {
+    "cct_max": 6500,
+    "cct_min": 2700,
+    "has_color": true,
+    "has_gm": true
+  },
+  "example_no_colour_fixture": {
+    "cct_max": 6500,
+    "cct_min": 2700,
+    "has_color": false,
+    "has_gm": false
+  }
+}

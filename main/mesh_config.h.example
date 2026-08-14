@@ -1,0 +1,9 @@
+/* Placeholder. Generate the real thing -- do not fill this in by hand:
+ *
+ *     python3 tools/gen_mesh_config.py
+ *
+ * It reads the amaran Desktop app's SQLite database for the mesh keys and
+ * every fixture's unicast address. Those addresses must match the app exactly;
+ * a stale one means commands go to nobody, with no error anywhere.
+ */
+#error "run tools/gen_mesh_config.py to generate main/mesh_config.h"

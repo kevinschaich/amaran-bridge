@@ -1,0 +1,22 @@
+# --- key-bearing: never commit -------------------------------------------
+# Wi-Fi PSK and MQTT password.
+main/config.h
+# Mesh net key, app key and every fixture's address.
+main/mesh_config.h
+# Dev-loop scratch: command output can capture credentials grepped out of
+# config.h, and serial logs contain whatever the firmware printed.
+.devloop/
+# Your fixture names and capabilities. No keys or addresses, but it is an
+# inventory of your rig; see tools/capabilities.example.json for the schema.
+tools/capabilities.json
+
+# --- build output ---------------------------------------------------------
+build/
+sdkconfig
+sdkconfig.old
+dependencies.lock
+managed_components/
+
+# --- misc -----------------------------------------------------------------
+.DS_Store
+*.orig
