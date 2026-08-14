@@ -1,10 +1,10 @@
 # amaran-bridge
 
-An ESP32-C5 that joins an amaran BLE Mesh lighting network and exposes every
-fixture to Home Assistant over MQTT.
+An ESP32 bridge for Amaran studio lights. Works with Home Assistant.
 
-Control is direct: the board speaks the mesh protocol itself, so nothing
-depends on the amaran desktop or mobile app being running. Nothing persistent has to be running on your PC either.
+The ESP32 board speaks the mesh protocol itself, so nothing depends on the amaran desktop or mobile app being running.
+
+![](./demo.png)
 
 ## Credits
 
