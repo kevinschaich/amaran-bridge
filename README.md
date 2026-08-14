@@ -6,6 +6,10 @@ fixture to Home Assistant over MQTT.
 Control is direct: the board speaks the mesh protocol itself, so nothing
 depends on the amaran desktop or mobile app being running. Nothing persistent has to be running on your PC either.
 
+## Credits
+
+- @wesbos and Claude for figuring out BLE mesh protocol (https://github.com/wesbos/amaran-BLE-control)
+
 ## What it does
 
 - On/off, brightness, colour temperature, hue/saturation, green/magenta tint
