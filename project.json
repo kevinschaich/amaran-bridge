@@ -1,0 +1,8 @@
+{
+    "slug": "amaran-bridge",
+    "name": "amaran-bridge",
+    "tagline": "An ESP32 bridge for Amaran studio lights. Works with Home Assistant.",
+    "accent": "#f59e0b",
+    "emoji": "💡",
+    "demo": false
+}
