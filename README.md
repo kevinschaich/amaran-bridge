@@ -1,6 +1,6 @@
 # amaran-bridge
 
-An ESP32 bridge for Amaran studio lights. Works with Home Assistant.
+A home assistant bridge for Amaran studio lights
 
 The ESP32 board speaks the mesh protocol itself, so nothing depends on the amaran desktop or mobile app being running.
 
