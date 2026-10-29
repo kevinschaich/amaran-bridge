@@ -2,7 +2,6 @@
   "slug": "amaran-bridge",
   "name": "amaran-bridge",
   "tagline": "A home assistant bridge for Amaran studio lights",
-  "accent": "#f59e0b",
-  "emoji": "💡",
-  "demo": false
+  "demo": false,
+  "icon": "spotlight"
 }
