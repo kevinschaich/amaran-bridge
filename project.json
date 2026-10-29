@@ -1,7 +1,7 @@
 {
   "slug": "amaran-bridge",
   "name": "amaran-bridge",
-  "tagline": "A home assistant bridge for Amaran studio lights",
+  "tagline": "Control Amaran lights from Home Assistant, no app needed",
   "demo": false,
   "icon": "spotlight"
 }
