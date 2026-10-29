@@ -3,5 +3,6 @@
   "name": "amaran-bridge",
   "tagline": "Control Amaran lights from Home Assistant, no app needed",
   "demo": false,
-  "icon": "spotlight"
+  "icon": "spotlight",
+  "screenshot": "demo.png"
 }
